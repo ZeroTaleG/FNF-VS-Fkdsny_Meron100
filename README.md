@@ -1,5 +1,6 @@
 vs Fkdsny & Meron100 github
 #
-by Fkdsny & Meron100
+Developper : Meron100
+Art : Fkdsny
 #
 Psych Engine by ShadowMario
