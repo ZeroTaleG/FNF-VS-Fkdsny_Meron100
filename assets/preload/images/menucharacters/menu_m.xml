@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menu_m.png">
+<SubTexture name="meron down0000" x="1799" y="0" width="490" height="284" frameX="0" frameY="0" frameWidth="490" frameHeight="284" />
+<SubTexture name="meron idle0000" x="0" y="768" width="438" height="298" frameX="0" frameY="0" frameWidth="438" frameHeight="298" />
+<SubTexture name="meron down0001" x="0" y="1642" width="492" height="283" frameX="0" frameY="0" frameWidth="492" frameHeight="283" />
+<SubTexture name="meron idle0001" x="900" y="381" width="442" height="299" frameX="0" frameY="0" frameWidth="442" frameHeight="299" />
+<SubTexture name="meron down0002" x="492" y="1642" width="494" height="282" frameX="0" frameY="0" frameWidth="494" frameHeight="282" />
+<SubTexture name="meron idle0002" x="445" y="387" width="447" height="299" frameX="0" frameY="0" frameWidth="447" frameHeight="299" />
+<SubTexture name="meron down0003" x="1799" y="284" width="490" height="284" frameX="0" frameY="0" frameWidth="490" frameHeight="284" />
+<SubTexture name="meron idle0003" x="438" y="768" width="460" height="298" frameX="0" frameY="0" frameWidth="460" frameHeight="298" />
+<SubTexture name="meron idle0004" x="898" y="768" width="449" height="298" frameX="0" frameY="0" frameWidth="449" frameHeight="298" />
+<SubTexture name="meron idle0005" x="1356" y="0" width="443" height="298" frameX="0" frameY="0" frameWidth="443" frameHeight="298" />
+<SubTexture name="meron idle0006" x="0" y="768" width="438" height="298" frameX="0" frameY="0" frameWidth="438" frameHeight="298" />
+<SubTexture name="meron idle0007" x="1356" y="298" width="429" height="298" frameX="0" frameY="0" frameWidth="429" frameHeight="298" />
+<SubTexture name="meron left0000" x="0" y="1066" width="501" height="288" frameX="0" frameY="0" frameWidth="501" frameHeight="288" />
+<SubTexture name="meron left0001" x="501" y="1066" width="502" height="288" frameX="0" frameY="0" frameWidth="502" frameHeight="288" />
+<SubTexture name="meron left0002" x="1003" y="1066" width="504" height="288" frameX="0" frameY="0" frameWidth="504" frameHeight="288" />
+<SubTexture name="meron left0003" x="0" y="1354" width="505" height="288" frameX="0" frameY="0" frameWidth="505" frameHeight="288" />
+<SubTexture name="meron left0004" x="505" y="1354" width="502" height="288" frameX="0" frameY="0" frameWidth="502" frameHeight="288" />
+<SubTexture name="meron left0005" x="1007" y="1354" width="501" height="288" frameX="0" frameY="0" frameWidth="501" frameHeight="288" />
+<SubTexture name="meron right0000" x="986" y="1642" width="540" height="275" frameX="0" frameY="0" frameWidth="540" frameHeight="275" />
+<SubTexture name="meron right0001" x="1526" y="1642" width="542" height="275" frameX="0" frameY="0" frameWidth="542" frameHeight="275" />
+<SubTexture name="meron right0002" x="0" y="1925" width="543" height="275" frameX="0" frameY="0" frameWidth="543" frameHeight="275" />
+<SubTexture name="meron right0003" x="543" y="1925" width="542" height="275" frameX="0" frameY="0" frameWidth="542" frameHeight="275" />
+<SubTexture name="meron up0000" x="444" y="0" width="456" height="381" frameX="0" frameY="0" frameWidth="456" frameHeight="381" />
+<SubTexture name="meron up0001" x="0" y="0" width="444" height="387" frameX="0" frameY="0" frameWidth="444" frameHeight="387" />
+<SubTexture name="meron up0002" x="0" y="387" width="445" height="381" frameX="0" frameY="0" frameWidth="445" frameHeight="381" />
+<SubTexture name="meron up0003" x="900" y="0" width="456" height="381" frameX="0" frameY="0" frameWidth="456" frameHeight="381" />
+</TextureAtlas>
