@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				98,
+				-358
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "meron idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-358
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "meron left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-358
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "meron down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-268
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "meron up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-357
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "meron right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/meron",
+	"position": [
+		360,
+		40
+	],
+	"healthicon": "meron",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		52
+	],
+	"camera_position": [
+		30,
+		450
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

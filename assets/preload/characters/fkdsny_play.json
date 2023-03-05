@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-100
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "fkdsny idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-100
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "fkdsny left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-100
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "fkdsny down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-100
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "fkdsny up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-100
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "fkdsny right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fkdsny",
+	"position": [
+		410,
+		50
+	],
+	"healthicon": "fkdsny",
+	"flip_x": false,
+	"healthbar_colors": [
+		208,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
