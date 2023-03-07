@@ -835,6 +835,10 @@ class PlayState extends MusicBeatState
 			case 'meronhouse': //VsMeron
 				var bg:BGSprite = new BGSprite('meronhouse', -600, -200, 0.9, 0.9);
 				add(bg);
+			
+			case 'fkdcorridor': //VsFkdsny
+				var bg:BGSprite = new BGSprite('fkdcorridor', -600, -200, 0.9, 0.9);
+				add(bg);
 		}
 
 		switch(Paths.formatToSongPath(SONG.song))
