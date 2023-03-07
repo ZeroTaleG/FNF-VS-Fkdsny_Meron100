@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menu_fkd.png">
+<SubTexture name="fkdsny down0000" x="1306" y="0" width="262" height="566" frameX="0" frameY="0" frameWidth="262" frameHeight="566" />
+<SubTexture name="fkdsny down0001" x="262" y="574" width="262" height="567" frameX="0" frameY="0" frameWidth="262" frameHeight="567" />
+<SubTexture name="fkdsny down0002" x="524" y="574" width="262" height="567" frameX="0" frameY="0" frameWidth="262" frameHeight="567" />
+<SubTexture name="fkdsny down0003" x="1867" y="1124" width="262" height="557" frameX="0" frameY="0" frameWidth="262" frameHeight="557" />
+<SubTexture name="fkdsny right0000" x="261" y="0" width="261" height="571" frameX="0" frameY="0" frameWidth="261" frameHeight="571" />
+<SubTexture name="fkdsny idle0000" x="0" y="1142" width="262" height="563" frameX="0" frameY="0" frameWidth="262" frameHeight="563" />
+<SubTexture name="fkdsny right0001" x="1306" y="566" width="261" height="564" frameX="0" frameY="0" frameWidth="261" frameHeight="564" />
+<SubTexture name="fkdsny idle0001" x="782" y="0" width="262" height="568" frameX="0" frameY="0" frameWidth="262" frameHeight="568" />
+<SubTexture name="fkdsny right0002" x="0" y="0" width="261" height="574" frameX="0" frameY="0" frameWidth="261" frameHeight="574" />
+<SubTexture name="fkdsny idle0002" x="1044" y="0" width="262" height="568" frameX="0" frameY="0" frameWidth="262" frameHeight="568" />
+<SubTexture name="fkdsny right0003" x="522" y="0" width="260" height="571" frameX="0" frameY="0" frameWidth="260" frameHeight="571" />
+<SubTexture name="fkdsny idle0003" x="0" y="574" width="262" height="568" frameX="0" frameY="0" frameWidth="262" frameHeight="568" />
+<SubTexture name="fkdsny idle0004" x="786" y="574" width="262" height="567" frameX="0" frameY="0" frameWidth="262" frameHeight="567" />
+<SubTexture name="fkdsny left0000" x="559" y="1142" width="340" height="562" frameX="0" frameY="0" frameWidth="340" frameHeight="562" />
+<SubTexture name="fkdsny left0001" x="899" y="1142" width="339" height="562" frameX="0" frameY="0" frameWidth="339" frameHeight="562" />
+<SubTexture name="fkdsny left0002" x="1238" y="1142" width="339" height="562" frameX="0" frameY="0" frameWidth="339" frameHeight="562" />
+<SubTexture name="fkdsny left0003" x="1867" y="0" width="339" height="562" frameX="0" frameY="0" frameWidth="339" frameHeight="562" />
+<SubTexture name="fkdsny up0000" x="262" y="1142" width="297" height="563" frameX="0" frameY="0" frameWidth="297" frameHeight="563" />
+<SubTexture name="fkdsny up0001" x="1568" y="0" width="299" height="564" frameX="0" frameY="0" frameWidth="299" frameHeight="564" />
+<SubTexture name="fkdsny up0002" x="1867" y="562" width="300" height="562" frameX="0" frameY="0" frameWidth="300" frameHeight="562" />
+<SubTexture name="fkdsny up0003" x="1568" y="564" width="299" height="564" frameX="0" frameY="0" frameWidth="299" frameHeight="564" />
+</TextureAtlas>

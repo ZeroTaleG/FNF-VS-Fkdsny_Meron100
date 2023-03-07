@@ -1,0 +1,11 @@
+{
+	"idle_anim": "fkdsny idle",
+	"image": "menu_fkd",
+	"position": [
+		34,
+		87
+	],
+	"flipX": false,
+	"scale": 0.55,
+	"confirm_anim": "fkdsny idle"
+}
