@@ -6,6 +6,6 @@ Developper : Meron100 [SNS](https://twitter.com/MERON100)
 Art : Fkdsny [SNS](https://twitter.com/fkdsny)
 # Use Engine
 Psych Engine by ShadowMario
-# Fkdsny Background Inspired Game:
+# Fkdsny Inspired Game:
 UNDERTALE by TobyFox
 (Last Corridor)
