@@ -8,4 +8,3 @@ Art : Fkdsny [SNS](https://twitter.com/fkdsny)
 Psych Engine by ShadowMario
 # Fkdsny Inspired Game:
 UNDERTALE by TobyFox
-(Last Corridor)
