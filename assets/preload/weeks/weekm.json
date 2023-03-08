@@ -1,5 +1,6 @@
 {
 	"storyName": "Melon Hideout",
+	"difficulties": "easy,normal,hard,master",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
 	"weekBefore": "",
@@ -12,29 +13,29 @@
 	"songs": [
 		[
 			"Bopeebo",
-			"dad",
+			"meron",
 			[
-				146,
-				113,
-				253
+				0,
+				255,
+				153
 			]
 		],
 		[
 			"Fresh",
-			"dad",
+			"meron",
 			[
-				146,
-				113,
-				253
+				0,
+				255,
+				153
 			]
 		],
 		[
 			"Dad Battle",
-			"dad",
+			"meron",
 			[
-				146,
-				113,
-				253
+				0,
+				255,
+				153
 			]
 		]
 	],
