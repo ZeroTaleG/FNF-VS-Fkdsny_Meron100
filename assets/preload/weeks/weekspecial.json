@@ -1,0 +1,32 @@
+{
+	"storyName": "DOUBLE ATTACK",
+	"difficulties": "Easy,Normal,Hard,Master,Dev",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"m",
+		"fkd",
+		"bf"
+	],
+	"songs": [
+		[
+			"evilmatch",
+			"doubletrouble",
+			[
+				255,
+				160,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week SPECIAL",
+	"hiddenUntilUnlocked": false
+}
