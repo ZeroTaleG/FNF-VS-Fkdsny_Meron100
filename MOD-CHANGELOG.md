@@ -7,4 +7,8 @@
 
 <h1>[0.0.3]</h1><br>
 <h2>Fix & Update</h2><br>
-<h3>General Fix,Update Sprites(Menu,Character,etc),Test Chart(Deathmatch),etc</h3>
+<h3>General Fix,Update Sprites(Menu,Character,etc),Test Chart(Deathmatch),etc</h3><br>
+
+<h1>[0.0.4]</h1><br>
+<h2>Beat Evil Update</h2><br>
+<h3>Added Dev Difficulty,Updated Evilmatch(Deathmatch),Fixed Credits</h3>
